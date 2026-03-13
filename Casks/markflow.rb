@@ -1,6 +1,6 @@
 cask "markflow" do
-  version "0.1.2"
-  sha256 "086ba42e89ddfde4ca910fbeea4d43e700e4d4fe99179d33fe3ba378da3994cb"
+  version "0.1.3"
+  sha256 "a3b47d6341d5df99281066d6da2a0f47bbe12f7f5ec8916552a8abfca4857e35"
 
   url "https://github.com/mostlyfine/markflow/releases/download/v#{version}/MarkFlow.dmg"
   name "MarkFlow"
